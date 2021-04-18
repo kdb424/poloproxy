@@ -1,6 +1,6 @@
 mkdir-p==0.1.1
 nanomsg==1.0
-PyYAML==3.12
+PyYAML==5.4
 git+https://github.com/kdb424/python-poloniex.git
 msgpack-python==0.4.8
 pendulum==0.6.5
